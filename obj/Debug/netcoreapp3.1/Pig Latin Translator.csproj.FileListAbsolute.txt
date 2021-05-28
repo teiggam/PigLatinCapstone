@@ -1,0 +1,13 @@
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\bin\Debug\netcoreapp3.1\Pig Latin Translator.exe
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\bin\Debug\netcoreapp3.1\Pig Latin Translator.deps.json
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\bin\Debug\netcoreapp3.1\Pig Latin Translator.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\bin\Debug\netcoreapp3.1\Pig Latin Translator.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\bin\Debug\netcoreapp3.1\Pig Latin Translator.dll
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\bin\Debug\netcoreapp3.1\Pig Latin Translator.pdb
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\obj\Debug\netcoreapp3.1\Pig Latin Translator.csprojAssemblyReference.cache
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\obj\Debug\netcoreapp3.1\Pig Latin Translator.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\obj\Debug\netcoreapp3.1\Pig Latin Translator.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\obj\Debug\netcoreapp3.1\Pig Latin Translator.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\obj\Debug\netcoreapp3.1\Pig Latin Translator.dll
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\obj\Debug\netcoreapp3.1\Pig Latin Translator.pdb
+C:\Users\Maggie\Documents\Grand Circus\CAPSTONES\Pig Latin Translator\Pig Latin Translator\obj\Debug\netcoreapp3.1\Pig Latin Translator.genruntimeconfig.cache
